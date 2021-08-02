@@ -1,0 +1,4 @@
+timezone.settings_form:
+  route_name: timezone.settings_form
+  parent: system.admin_config_system
+  title: 'TimeZone Settings Form'

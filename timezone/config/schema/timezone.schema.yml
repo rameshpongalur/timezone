@@ -1,0 +1,15 @@
+timezone.settings:
+  type: mapping
+  label: 'Timezone Settings'
+  mapping:
+    timezone:
+      type: string
+      label: 'Timezone'
+    country:
+      type: string
+      label: 'Country'
+    city:
+      type: string
+      label: 'City'
+dependencies:
+    - timezone
